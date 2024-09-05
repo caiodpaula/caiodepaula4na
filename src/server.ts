@@ -22,7 +22,7 @@ app.get("/users", async (req, res) => {
 });
 
 // Rota para adicionar um novo usuário
-app.post("/", async (req, res) => {
+app.post("/users", async (req, res) => {
   const { name, email } = req.body;
   try {
     const queryText =
