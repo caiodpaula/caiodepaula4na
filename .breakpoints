@@ -7,6 +7,14 @@
         "version": 0,
         "index": 0
       }
+    ],
+    "src/models/userModel.ts": [
+      {
+        "id": "4698c216-fb23-49b0-ab03-ceda75f45e3b",
+        "line": 5,
+        "version": 1,
+        "index": 71
+      }
     ]
   }
 }
